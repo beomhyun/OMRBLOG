@@ -1,4 +1,5 @@
----?image=ppt_image/shutterstock_481263772.jpg&size=cover
+---
+---?ppt_image/shutterstock_481263772.jpg%&position=bottom&color=#b7410e
 # 오무라이스의 조장
 박상호
 ---
