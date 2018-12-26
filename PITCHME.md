@@ -1,5 +1,5 @@
 ---
-?image=ppt_image/shutterstock_481263772.jpg&size=auto 40%
+?image=sxngho/OMRBLOG/blob/master/ppt_image/shutterstock_481263772.jpg &size=auto 40%
 # 오무라이스의 조장
 박상호
 ---
