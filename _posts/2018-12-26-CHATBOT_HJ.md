@@ -1,4 +1,7 @@
 
+
+---
+대전_3반_주효재, https://github.com/hyojaegood/SSAFY/tree/master/week02_webtoonChatbot
 ---
 # I. 스펙
 
