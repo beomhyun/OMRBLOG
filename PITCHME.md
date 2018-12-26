@@ -1,7 +1,7 @@
----?%&position=bottom&color=#74A4BC
+---?%&position=bottom&color=#4166F5
 # 오무라이스의 조장
 박상호
----?%&position=bottom&color=#74A4BC
+---?%&position=bottom&color=#4166F5
 우직하다. 빠르다. 독특하다.
 
 연말 계획 : 부산 여행!
