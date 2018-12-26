@@ -1,6 +1,8 @@
 ---
 # 오무라이스의 조장
-박상호![logo](ppt_image/shutterstock_481263772.jpg)
+박상호
+![logo](ppt_image/shutterstock_481263772.jpg)
+?image=assets/bg.jpg&size=auto 90%
 ---
 우직하다. 빠르다. 독특하다.
 
