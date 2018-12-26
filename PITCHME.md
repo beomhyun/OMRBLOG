@@ -1,4 +1,3 @@
----
 ---?ppt_image/shutterstock_481263772.jpg%&position=bottom&color=#b7410e
 # 오무라이스의 조장
 박상호
@@ -6,9 +5,9 @@
 우직하다. 빠르다. 독특하다.
 
 연말 계획 : 부산 여행!
----
+---?ppt_image/effnacnz_400x400.jpg%&position=bottom&color=#b7410e
 # 오무라이스의 큰형
-김범현![Logo](ppt_image/effnacnz_400x400.jpg)
+김범현
 ---
 듬직하다. 깊게 본다. 주위를 잘 살핀다.
 
